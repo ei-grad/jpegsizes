@@ -6,7 +6,9 @@ Calculates the sizes of many JPEG images fast.
 Install
 -------
 
+```bash
 go get github.com/ei-grad/jpegsizes
+```
 
 Usage
 -----
