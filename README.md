@@ -16,7 +16,7 @@ Usage
 Just run the `jpegsizes` command to output tab-separated `<image> <width> <height>` tuples for `.jpg` files in current directory.
 
 ```bash
-$ jpegsizes -help                                                                                     2 ↵
+$ jpegsizes -help
 Usage of jpegsizes:
   -pattern string
     	glob pattern to match image filenames (default "*.jpg")
